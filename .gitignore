@@ -1,0 +1,13 @@
+# uv / Python virtual environment
+.venv/
+
+# Python bytecode and caches
+__pycache__/
+*.pyc
+.pytest_cache/
+
+.env
+
+results/
+
+.DS_Store
